@@ -1,3 +1,3 @@
 # PerfectSolverAi
-an ai writen in python that aims to help humanity
+an ai assistant written in python  \n
 needs a bit testing until release
